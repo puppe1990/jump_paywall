@@ -1,0 +1,11 @@
+{
+  "name": "Jump Paywall",
+  "version": "1.0.0",
+  "description": "Jump Paywall using 12ft",
+  "manifest_version": 3,
+  "author": "Matheus Puppe",
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "Jump the f* paywall"
+  }
+}
