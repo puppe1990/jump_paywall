@@ -7,7 +7,7 @@ Redirects to a proxy site that bypasses the paywall
 Logs the current URL in the console for debugging purposes
 ## Installation
 1. Clone or download this repository
-2; Open Google Chrome and navigate to chrome://extensions
+2. Open Google Chrome and navigate to chrome://extensions
 3. Enable "Developer mode" in the top-right corner
 4. Click on "Load unpacked" and select the directory where you cloned or downloaded this repository
 5. The extension should now be installed and available in your browser toolbar
