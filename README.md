@@ -13,7 +13,7 @@ Logs the current URL in the console for debugging purposes
 5. The extension should now be installed and available in your browser toolbar
 # Usage
 1. Navigate to a website with a paywall
-2 .Click on the button in the browser toolbar to trigger the bypass
+2. Click on the button in the browser toolbar to trigger the bypass
 3. The current URL should be logged in the console for debugging purposes
 4. The page should be redirected to the proxy site that bypasses the paywall
 # Contributing
